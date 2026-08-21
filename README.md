@@ -1,6 +1,6 @@
-# it-security-review — Claude Code Skill
+# it-security-review — Claude Skill
 
-社員が申請したソフトウェア・SaaS・クラウドサービスの **社内利用可否をIT/セキュリティ統制の観点から調査・評価** する Claude Code スキルです。
+社員が申請したソフトウェア・SaaS・クラウドサービスの **社内利用可否をIT/セキュリティ統制の観点から調査・評価** する Claude Skill です。
 
 Web検索で一次情報（プライバシーポリシー・セキュリティホワイトペーパー・第三者認証）を収集し、**6分野18項目のチェックリスト** に基づく3段階リスク評価付きの日本語 Markdown レポートと、**稟議システムの承認コメント欄にそのまま貼れる短文サマリー** を自動生成します。
 
@@ -132,7 +132,7 @@ it-security-review/
 
 ## 動作要件
 
-- Claude Code（CLI / Mac デスクトップアプリ / claude.ai/code）
+- Claude Code（CLI）/ Claude Desktop / claude.ai
 - インターネット接続（Web検索による一次情報収集に使用）
 
 ---
